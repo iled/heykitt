@@ -4,7 +4,7 @@
 
 *Hey KITT! Go and fetch some data for me!*
 
-This repo contains examples of how to programmatically retrieve data of some sources relevant to my research:
+This repo contains examples of how to programmatically retrieve data of some sources relevant to my research. The examples are mainly in Python/Jupyter notebooks, and perhaps are ~~crammed with~~ oriented to some case studies I had worked on.
 
 - SMAP (Soil Moisture Active Passive)
 - Weather Underground

@@ -1,6 +1,6 @@
 # heykitt
 
-![./heykitt.jpg](heykitt)
+![heykitt](./heykitt.jpg)
 
 *Hey KITT! Go and fetch some data for me!*
 
